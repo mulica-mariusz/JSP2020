@@ -1,0 +1,20 @@
+nr 82252806917: 
+ data urodzenia 28-05-2082;	 p³eæ mê¿czyzna 
+nr 50042017727: 
+ data urodzenia 20-04-1950;	 p³eæ kobieta 
+nr 39252624751: 
+ data urodzenia 26-05-2039;	 p³eæ mê¿czyzna 
+nr 07213156771: 
+ data urodzenia 31-01-2007;	 p³eæ mê¿czyzna 
+nr 52241498801: 
+ data urodzenia 14-04-2052;	 p³eæ kobieta 
+nr 10242776963: 
+ data urodzenia 27-04-2010;	 p³eæ kobieta 
+nr 33231786475: 
+ data urodzenia 17-03-2033;	 p³eæ mê¿czyzna 
+nr 37311307963: 
+ data urodzenia 13-11-2037;	 p³eæ kobieta 
+nr 55211708923: 
+ data urodzenia 17-01-2055;	 p³eæ kobieta 
+nr 38010650761: 
+ data urodzenia 06-01-1938;	 p³eæ kobieta 
